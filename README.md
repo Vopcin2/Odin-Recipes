@@ -1,1 +1,2 @@
 # Odin-Recipes
+A Website used to practice web development with some of my favorite foods and their recipes. I learned alot about linking to different pages and embedding photos with the different elements that HTML has to offer.
